@@ -1,0 +1,6 @@
+[submodule "works/Real-time-Image-Dilation-Visualizer"]
+	path = works/Real-time-Image-Dilation-Visualizer
+	url = https://github.com/sturkoglu1/Real-time-Image-Dilation-Visualiser
+[submodule "works/russifier"]
+	path = works/russifier
+	url = https://github.com/sturkoglu1/Russifier
