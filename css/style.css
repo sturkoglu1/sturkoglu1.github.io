@@ -3,10 +3,9 @@
 
 body {
     width: 100%;
-    background: linear-gradient(-45deg, #2588a1, #da3e7f, #a255cf, #418dd4);
-    background-size: 400% 400%;
+    background-image: url("../resources/bg.png");
+    background-size: 32px 32px;
     height: 100vh;
-    animation: efect 60s ease infinite;
     z-index: -2;
     margin: 0;
     display: flex;
@@ -31,10 +30,6 @@ html {
 
 a{
     color: inherit;
-}
-
-a:hover{
-    color:blue;
 }
 
 .container {
@@ -98,7 +93,7 @@ svg {
   }
   .yellow {
 
-      color:rgb(224, 224, 14);
+      color:whitesmoke;
   }
   .pink{
       color:rgb(238, 107, 234);
